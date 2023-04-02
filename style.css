@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  
+  height: 100vh;
+}
+
+.volba {
+  padding: 10px;
+  font-size: 20px;
+  color: blue;
+}
